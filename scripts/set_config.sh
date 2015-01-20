@@ -3,7 +3,7 @@
   
 #by default script will run for master
 TYPE=master
-USER=visalab
+USER=naman
  
 if [ -n "$1" ]
 then
